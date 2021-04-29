@@ -17,6 +17,7 @@ public class 백준_16954_움직이는미로탈출 {
 		}
 	}
 
+	//
 	static class Node {
 		int y;
 		int x;
